@@ -1,0 +1,14 @@
+{
+  "name": "express-coursera",
+  "version": "1.0.0",
+  "description": "Node Express example",
+  "main": "index.js",
+  "author": "Gonzalo Cuadra",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
